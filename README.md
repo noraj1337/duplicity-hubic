@@ -12,7 +12,7 @@ pip python-requests
 
 Installation
 -------
-Just put hubicbackend.py in the directory of backend (/usr/share/pyshared/duplicity/backends/ or /usr/lib/python2.7/dist-packages/duplicity/backends/)
+Just put hubicbackend.py in the directory of backend (/usr/share/pyshared/duplicity/backends/ or /usr/lib/python2.7/dist-packages/duplicity/backends/ or /usr/lib/python2.7/site-packages/duplicity/backends/)
 
 
 Use
